@@ -8,10 +8,10 @@ Gem::Specification.new do |s|
   s.version = "0.0.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = ["Max Ogden", "daddz", "Peter Williams"]
+  s.authors = ["Max Ogden", "daddz", "Peter Williams", "Adam Lukens"]
   s.date = %q{2011-04-05}
   s.description = %q{A simple file based queue in Ruby}
-  s.email = %q{pezra@barelyenough.org}
+  s.email = %q{adam@testdouble.com}
   s.extra_rdoc_files = [
     "LICENSE",
     "README.md"
@@ -29,7 +29,7 @@ Gem::Specification.new do |s|
     "spec/filequeue_spec.rb",
     "spec/spec_helper.rb"
   ]
-  s.homepage = %q{http://github.com/maxogden/filequeue}
+  s.homepage = %q{http://github.com/mcpolemic/filequeue}
   s.require_paths = ["lib"]
   s.summary = %q{A simple file based queue in Ruby}
   s.test_files = [
