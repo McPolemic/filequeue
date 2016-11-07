@@ -3,5 +3,4 @@ rvm:
   - 2.2
   - ree
   - jruby
-  - rbx-2
 sudo: false
