@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    filequeue (0.0.2)
+    filequeue-mcpolemic (0.0.2)
 
 GEM
   remote: https://rubygems.org/
@@ -26,9 +26,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  filequeue!
+  filequeue-mcpolemic!
   rake
   rspec (~> 3.3)
 
 BUNDLED WITH
-   1.10.6
+   1.12.5
